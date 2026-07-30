@@ -1,0 +1,4 @@
+This compatibility package contains the required OpenCode structure under .opencode/.
+It also contains visible duplicates under opencode-visible/ and a root-level SKILL.md
+for extraction tools that hide or discard paths beginning with a dot.
+Use the .opencode/ directory when installing the skill in OpenCode.
